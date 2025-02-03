@@ -9,6 +9,9 @@
 
 </div>
 
+> 🚀 **Looking for more features?** Check out the enhanced ESP32 version with advanced capabilities:
+> [ESP32 Advanced Water Pump Controller](https://github.com/desiFish/ESP32-Advanced-Water-Pump-Controller)
+
 ## ⚠️ SAFETY WARNING
 > **DANGER**: This project involves high-voltage operations (AC 220V-240V) and high currents (5A-50A).
 > 
